@@ -1,0 +1,14 @@
+.one{
+    font-size: 15mm;
+    border-bottom: 4px solid #CCC;
+    margin-top: 0mm;
+}
+.two{
+    margin-top: 5mm;
+    font-size: 7mm;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.dos{
+    font-size: 5mm;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
